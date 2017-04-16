@@ -2,8 +2,6 @@
  * Created by Narvik on 4/14/17.
  */
 
- git remote add origin https://github.com/ntahmasian/CS380-EX2.git
-
 import java.io.InputStream;
 import java.io.IOException;
 import java.io.OutputStream;
